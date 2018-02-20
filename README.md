@@ -1,0 +1,2 @@
+# FraudPsychic
+Fraud detection algorithm.
